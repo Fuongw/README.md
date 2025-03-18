@@ -175,9 +175,9 @@ Kết quả:
 Đối với chèn block code, bạn để code vào trong cặp 3 dấu "```" (là phím dưới phím ESC đó). Ví dụ:
 ```
     ```cpp
-    #include
-    int main() {
-    cout <<"Lập Trình Khó Nha Pro!!!";
+#include
+ int main() {
+ cout <<"Lập Trình Khó Nha Pro!!!";
  return 0;
 }
     ```
