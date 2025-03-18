@@ -187,7 +187,7 @@ Kết quả:
 ```cpp
 #include 
 int main() {
-  printf("Lap Trinh Khong Kho!");
+  cout << "Lập Trình Khó Nha Pro!!!";
   return 0;
 }
 ```
